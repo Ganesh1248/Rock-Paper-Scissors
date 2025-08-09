@@ -1,6 +1,6 @@
 # 🪨 Rock - 📄 Paper - ✂️ Scissors
 
-A simple and fun **Rock-Paper-Scissors** game built using [your tech stack here — e.g., Python, JavaScript, etc.].  
+A simple and fun **Rock-Paper-Scissors** game built using html,css.  
 Play against the computer and see if you can win! 🎮
 
 ---
